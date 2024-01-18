@@ -1,4 +1,4 @@
-![Banner Image](./Simon  .png)
+![Banner Image](./Simon.png)
 ## Olá! 👋
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=joaobarroso6.joaobarroso6)](https://github.com/joaobarroso6) [![GitHub followers](https://img.shields.io/github/followers/joaobarroso6.svg?style=social&label=Follow)](https://github.com/joaobarroso6?tab=followers)
